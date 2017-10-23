@@ -39,7 +39,7 @@ const CONCEALED: &'static str = "▒";
 
 /// The game over screen.
 const GAME_OVER: &'static str = "╔═════════════════╗\n\r\
-                                 ║───┬Game over────║\n\r\
+                                 ║───┬GAME OVER────║\n\r\
                                  ║ r ┆ replay      ║\n\r\
                                  ║ q ┆ quit        ║\n\r\
                                  ╚═══╧═════════════╝";
